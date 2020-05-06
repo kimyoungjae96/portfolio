@@ -6,7 +6,7 @@ function ProjectPage() {
       {/* article 시작 */}
       <div className="article">
         <div className="projectImg">
-          <img src="./images/asan.png" />
+          <img src="./images/lotto.jpg" />
         </div>
         <div className="projectContent">
           <div className="projectTitle">
@@ -42,7 +42,7 @@ function ProjectPage() {
       {/* article 시작 */}
       <div className="article">
         <div className="projectImg">
-          <img src="./images/asan.png" />
+          <img src="./images/youtube.png" />
         </div>
         <div className="projectContent">
           <div className="projectTitle">
@@ -113,7 +113,7 @@ function ProjectPage() {
       {/* article 시작 */}
       <div className="article">
         <div className="projectImg">
-          <img src="./images/asan.png" />
+          <img src="./images/gaon.png" />
         </div>
         <div className="projectContent">
           <div className="projectTitle">
