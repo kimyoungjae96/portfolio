@@ -24,8 +24,8 @@ function ProjectPage() {
             <div className="projectDeploy">
               <div className="subTitle">개발파트</div>
               <ul>
-                <li> - 백엔드</li>
-                <li> - 프론트엔드 (퍼블리싱 파일 받아 작업)</li>
+                <li> - 백엔드 (로또 랜덤 뽑기 부분 제외한 파트 개발)</li>
+                <li> - 프론트엔드</li>
               </ul>
             </div>
             <div className="projectLanguage">
@@ -42,7 +42,7 @@ function ProjectPage() {
       {/* article 시작 */}
       <div className="article">
         <div className="projectImg">
-          <img src="./images/youtube.png" />
+          <img src="./images/youtube.PNG" />
         </div>
         <div className="projectContent">
           <div className="projectTitle">
@@ -61,7 +61,7 @@ function ProjectPage() {
               <div className="subTitle">개발파트</div>
               <ul>
                 <li> - 백엔드</li>
-                <li> - 프론트엔드 (퍼블리싱 파일 받아 작업)</li>
+                <li> - 프론트엔드</li>
               </ul>
             </div>
             <div className="projectLanguage">
