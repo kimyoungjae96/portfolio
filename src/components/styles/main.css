@@ -122,6 +122,22 @@ q:after {
 table {
   border-collapse: collapse;
 }
+a:link {
+  text-decoration: none;
+  color: #333333;
+}
+a:visited {
+  text-decoration: none;
+  color: #333333;
+}
+a:active {
+  text-decoration: none;
+  color: #333333;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
 
 /*initialize end*/
 #page-wrapper {
@@ -212,6 +228,9 @@ table {
   height: 100%;
 }
 */
+.projectWrapper > ul > li {
+  padding: 5px;
+}
 .profile_content > ul > li {
   list-style: none;
   padding: 30px;
@@ -240,6 +259,21 @@ table {
   background-color: #ffa873;
 }
 
+.oneClickCheck {
+  padding: 20px;
+  width: 80%;
+  background-color: #7494de;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  border-radius: 15px;
+}
+.oneClickCheck:hover {
+  background-color: #4959cf !important;
+  font-size: 18px;
+}
 /* faq 시작 */
 
 .animate {
