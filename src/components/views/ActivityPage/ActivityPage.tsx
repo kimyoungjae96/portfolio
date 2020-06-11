@@ -8,7 +8,7 @@ function ActivityPage() {
         <div className="projectContent">
           <div className="projectTitle">
             <span>알프스 동아리(알고리즘 동아리)</span>
-            <span className="projectDate">(2018.04.22 ~ 진행중)</span>
+            <span className="projectDate">(2019.04.22 ~ 진행중)</span>
           </div>
           <div className="projectSummary">
             알고리즘 공부는 혼자 충분히 할 수 있지만, 알고리즘뿐만 아니라 컴퓨터
@@ -27,7 +27,7 @@ function ActivityPage() {
         <div className="projectContent">
           <div className="projectTitle">
             <span>플루마 동아리(건국민턴 동아리)</span>
-            <span className="projectDate">(2018.04.22 ~ 진행중)</span>
+            <span className="projectDate">(2019.04.22 ~ 진행중)</span>
           </div>
           <div className="projectSummary">
             배드민턴을 좋아하여 학교 동아리에 가입하여 꾸준하게 활동을
