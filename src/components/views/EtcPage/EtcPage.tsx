@@ -10,6 +10,8 @@ function EtcPage() {
             <div>
               <h2>2020</h2>
               <ol>
+                <li>디어코퍼레이션 입사(2020.6.29)</li>
+                <li>Crerar 퇴사(2020.06.26)</li>
                 <li>Crerar 입사(2020.04.13)</li>
               </ol>
             </div>

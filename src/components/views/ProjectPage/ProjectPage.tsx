@@ -274,6 +274,8 @@ function ProjectPage() {
             <li>로또어플</li>
             <li>유튜브 클론</li>
             <li>엘마 뉴스 어플 (작업중)</li>
+            <li>Greego 어플 (작업중)</li>
+            <li>디어 어플 유지보수</li>
           </ul>
           <br />
           2019년도 프로젝트

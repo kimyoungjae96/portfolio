@@ -385,12 +385,17 @@ input[name="question"]:checked + label + p {
 }
 .projectImg {
   flex: 1;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 5px;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
 .projectImg img {
   position: relative;
-  width: 348px;
-  height: 100%;
-  border-radius: 15px 0 0 15px;
+  width: 100%;
+  height: auto;
 }
 .projectContent {
   flex: 1.5;
