@@ -7,6 +7,22 @@ function ActivityPage() {
       <div className="article">
         <div className="projectContent">
           <div className="projectTitle">
+            <span>자바스크립트 스터디</span>
+            <span className="projectDate">(2020.10.15 ~ 진행중)</span>
+          </div>
+          <div className="projectSummary">
+            React, React-Native 뿐만 아니라 여러가지 라이브러리를 사용을 하다가
+            순수 자바스크립트로 어떻게 설계가 되어있고 동작 하는지 원리 파악의
+            필요성을 느껴 스터디원을 모집하여 스터디를 시작하게 되었습니다.
+            <a href="https://www.notion.so/Javascript-e1d799c7b01f461dae704d1a684c4b3b"></a>
+          </div>
+        </div>
+      </div>
+      {/* article 끝 */}
+      {/* article 시작 */}
+      <div className="article">
+        <div className="projectContent">
+          <div className="projectTitle">
             <span>알프스 동아리(알고리즘 동아리)</span>
             <span className="projectDate">(2019.04.22 ~ 진행중)</span>
           </div>
