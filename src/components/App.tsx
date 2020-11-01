@@ -1,5 +1,4 @@
 import React from "react";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "./styles/main.css";
 import Header from "./views/Header/Header";
 import ContentPage from "./views/ContentPage/ContentPage";
