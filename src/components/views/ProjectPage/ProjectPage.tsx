@@ -18,6 +18,19 @@ function ProjectPage() {
 
   const ProjectsContent: Project[] = [
     createProject(
+      "./images/deer_renew.png",
+      "디어앱 리뉴얼",
+      "2021.02.27",
+      "진행중",
+      "#",
+      [
+        "프론트엔드",
+        "코드구조 및 성능 개선",
+        "UX 개선"
+      ],
+      ["React Native", "Mobx", "TypeScript"]
+    ),
+    createProject(
       "./images/deerman.jpeg",
       "디어맨 앱 개발",
       "2020.06.27",
@@ -28,6 +41,7 @@ function ProjectPage() {
         "디어맨 스태프 작업플로우 간략화",
         "마지막 이용자에게 문자 보내기 기능 추가",
         "미사용 디어 알림기능 추가",
+        "초기 렌더링 속도 28초 => 4초로 최적화"
       ],
       ["React Native", "Mobx", "TypeScript"]
     ),
@@ -41,6 +55,7 @@ function ProjectPage() {
         "프론트엔드",
         "Google 지도 Naver 지도로 변경",
         "카카오페이 연동 (프론트엔드)",
+        "초기 렌더링 속도 30초 => 5초로 최적화"
       ],
       ["React Native", "Mobx", "TypeScript"]
     ),
