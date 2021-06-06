@@ -105,7 +105,7 @@ function ProjectPage() {
       ["PHP", "JavaScript", "MySql"]
     ),
     createProject(
-      "./images/gaon.png",
+      "./images/asan.png",
       "아산시청",
       "2018.03.22",
       "2018.06.19",
